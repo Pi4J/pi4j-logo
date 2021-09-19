@@ -31,6 +31,6 @@ For all info about Pi4J check [pi4j.com](https://www.pi4j.com).
 
 ![](Pi4J_Logo_Plain6_transparent.png)
 
-## Version 7
+## Version 7 (with transparent background which make it work on all kinds of background colors)
 
 ![](Pi4J_Logo_Plain7_transparent_SeriousFont.png)
