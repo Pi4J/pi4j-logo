@@ -30,3 +30,7 @@ For all info about Pi4J check [pi4j.com](https://www.pi4j.com).
 ## Version 6
 
 ![](Pi4J_Logo_Plain6_transparent.png)
+
+## Version 7
+
+![](Pi4J_Logo_Plain7_transparent_SeriousFont.png)
